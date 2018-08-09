@@ -1,6 +1,6 @@
 # netra
 
-Eye care app for Mac/PC. 
+Eye care app for Mac/PC. Losely tied to the [Bates method](https://en.wikipedia.org/wiki/Bates_method)
 
 1. Ask you to {random exercise} every X hours.
     1. Palming
