@@ -1,4 +1,4 @@
-# netra
+# eyerest 
 
 Eye care app for Mac/PC. Losely tied to the [Bates method](https://en.wikipedia.org/wiki/Bates_method)
 
